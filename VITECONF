@@ -1,0 +1,11 @@
+Just a file about vite config:
+
+npm install -D vite
+
+npm create vite
+
+cd ~
+
+npm install
+
+npm run dev
